@@ -7,6 +7,7 @@ homepage: false
 images:
 - doc/img/nanoterm01A_QRcode.png
 mark: 50
+status: 0
 tags:
 - mlab
 - mlab-module
